@@ -5,6 +5,7 @@ Simple 2D platformer made in unity for 422 final project
 **All credit goes to Game Code Library on YouTube**
 - Channel: https://www.youtube.com/@GameCodeLibrary
 - Vidoe Series: https://www.youtube.com/watch?v=BwrzZI0_-qw&list=PLaaFfzxy_80EWnrTHyUkkIy6mJrhwGYN0
+- Sprite Sheet Used: https://www.kenney.nl/assets/1-bit-platformer-pack
 
 
 ## Requirements
